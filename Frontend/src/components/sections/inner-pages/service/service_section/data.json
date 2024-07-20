@@ -1,0 +1,50 @@
+[
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-1.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-1.svg",
+    "title": "Expert-Led Courses",
+    "text": "Learn from industry professionals through interactive and practical training."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-2.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-2.svg",
+    "title": "Hands-On Projects",
+    "text": "Engage in real-world projects to apply and solidify your skills."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-3.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-3.svg",
+    "title": "Flexible Learning Options",
+    "text": "Choose from online or offline formats to fit your schedule and learning style."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-4.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-4.svg",
+    "title": "Career Support",
+    "text": "Receive assistance with resume building, job search, and interview preparation."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-5.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-5.svg",
+    "title": "Certifications",
+    "text": "Earn industry-recognized certifications to enhance your professional credentials."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-6.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-6.svg",
+    "title": "Continuous Updates",
+    "text": "Stay current with the latest trends and updates in your field of study."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-7.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-7.svg",
+    "title": "Community and Networking",
+    "text": "Join a vibrant community of learners and professionals for support and collaboration."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-8.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-8.svg",
+    "title": "Comprehensive Curriculum",
+    "text": "Access a structured curriculum designed to cover essential concepts and skills."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "review": "“Scatyc's training programs have transformed my skill set and career prospects. The hands-on approach and expert instructors make learning engaging and effective.”",
+    "profile": "assets/img/th-1/testimonial-img-1.jpg",
+    "name": "Akash Takre",
+    "info": "Web Developer",
+    "rating": "assets/img/th-1/rating.svg"
+  },
+  {
+    "review": "“The flexibility of Scatyc’s courses allowed me to balance learning with my job. I’ve gained valuable skills that directly apply to my work.”",
+    "profile": "assets/img/th-1/testimonial-img-2.jpg",
+    "name": "Ganesh More",
+    "info": "Data Analyst",
+    "rating": "assets/img/th-1/rating.svg"
+  },
+  {
+    "review": "“Scatyc’s expert-led courses and real-world projects provided practical knowledge that helped me excel in my field. Highly recommended!”",
+    "profile": "assets/img/th-1/testimonial-img-3.jpg",
+    "name": "Krushna More",
+    "info": "Digital Marketer",
+    "rating": "assets/img/th-1/rating.svg"
+  },
+  {
+    "review": "“The comprehensive curriculum and hands-on approach were game-changers for me. I feel confident applying what I’ve learned in real-world scenarios.”",
+    "profile": "assets/img/th-1/testimonial-img-4.jpg",
+    "name": "Vaibhav Deore",
+    "info": "Data Scientist",
+    "rating": "assets/img/th-1/rating.svg"
+  },
+  {
+    "review": "“The supportive community and career assistance provided by Scatyc have been invaluable. I’ve landed a new role thanks to their training.”",
+    "profile": "assets/img/th-1/testimonial-img-5.jpg",
+    "name": "Prajwal Chavan",
+    "info": "Software Engineer",
+    "rating": "assets/img/th-1/rating.svg"
+  },
+  {
+    "review": "“Investing in Scatyc’s courses has been one of the best decisions for my professional development. The ROI is clear in my enhanced skills and career growth.”",
+    "profile": "assets/img/th-1/testimonial-img-6.jpg",
+    "name": "Rakesh Deore",
+    "info": "Marketing Specialist",
+    "rating": "assets/img/th-1/rating.svg"
+  }
+]
