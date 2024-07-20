@@ -60,12 +60,13 @@ const Footer = () => {
           {/* Footer Widget */}
           <div className='flex flex-col gap-y-6'>
             <Link to='/' className='inline-block'>
-              <img
+              {/* <img
                 src='assets/img/th-1/logo.png'
                 alt='logo'
                 width={96}
                 height={24}
-              />
+              /> */}
+                <h3 className='font-extrabold text-3xl'>ScatyC</h3>
             </Link>
             <p>
             To harness the power of AI to solve complex business challenges, provide decision-makers with data-driven insights, and enhance user experiences across digital platforms.
