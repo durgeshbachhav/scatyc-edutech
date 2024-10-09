@@ -91,7 +91,7 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
               /> */}
               Home
             </Link>
-            {/* <ul
+            <ul
               className={`sub-menu ${mobileSubMenu === 1 && 'active'}`}
               id='submenu-1'
             >
@@ -107,7 +107,7 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
               <li className='sub-menu--item'>
                 <Link to='/home-4'> home 04</Link>
               </li>
-            </ul> */}
+            </ul>
           </li>
           <li className='nav-item'>
             <Link to='/about' className='nav-link-item'>
@@ -137,6 +137,21 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
               </li>
               <li className='sub-menu--item'>
                 <Link to='/data-analytics'>Data Analytics</Link>
+              </li>
+              <li className='sub-menu--item'>
+                <Link to='/business-analytics'>Business Analytics</Link>
+              </li>
+              <li className='sub-menu--item'>
+                <Link to='/web-development'>Web Development</Link>
+              </li>
+              <li className='sub-menu--item'>
+                <Link to='/digital-marketing'>Digital Marketing</Link>
+              </li>
+              <li className='sub-menu--item'>
+                <Link to='/finance-modeling'>Finance Modeling</Link>
+              </li>
+              <li className='sub-menu--item'>
+                <Link to='/data-visualization'>Data Visualization</Link>
               </li>
             </ul>
           </li>

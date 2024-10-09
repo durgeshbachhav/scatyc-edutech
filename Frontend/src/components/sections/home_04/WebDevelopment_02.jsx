@@ -1,4 +1,4 @@
-const Content_02 = () => {
+const WebDevelopment_02 = () => {
   return (
     <section id='section-content-2'>
       {/* Section Spacer */}
@@ -10,7 +10,7 @@ const Content_02 = () => {
               <div className='overflow-hidden rounded-[10px]'>
                 <img
                   src='assets/img/th-4/content-img-2.jpg'
-                  alt='content-img-2'
+                  alt='web-development-tools'
                   width={550}
                   height={550}
                   className='h-auto w-full'
@@ -20,16 +20,14 @@ const Content_02 = () => {
             <div className='jos order-1' data-jos_animation='fade-right'>
               {/* Section Content Block */}
               <div className='mb-6'>
-                <h2 className='font-spaceGrotesk text-4xl font-medium leading-[1.06] -tracking-[2px] text-white sm:text-[44px] lg:text-[56px] xl:text-[70px]'>
-                  Industries protect their digital assets
+                <h2 className='font-spaceGrotesk text-4xl font-medium leading-[1.06] -tracking-[2px]  sm:text-[44px] lg:text-[56px] xl:text-[70px]'>
+                  Empowering businesses with modern web solutions
                 </h2>
               </div>
               {/* Section Content Block */}
               <div className=''>
                 <p className='mb-8 text-lg leading-[1.42] last:mb-0 lg:text-[21px]'>
-                  Cybersecurity solutions are used by a wide range of all types
-                  of organizations across various industries use to protect
-                  their digital assets, networks, and sensitive data.
+                  Web development technologies are used by organizations across various industries to create powerful, scalable, and user-friendly digital experiences that drive growth and engagement.
                 </p>
                 <ul className='flex flex-col gap-y-5 font-spaceGrotesk text-xl leading-tight tracking-tighter lg:mt-12 lg:text-[28px]'>
                   <li className='flex items-start gap-x-3'>
@@ -42,7 +40,7 @@ const Content_02 = () => {
                         className='h-full w-full'
                       />
                     </div>
-                    AI cybersecurity to secure cloud platforms
+                    Responsive design for seamless multi-device experiences
                   </li>
                   <li className='flex items-start gap-x-3'>
                     <div className='mt-[2.5px] h-[30px] w-[30px]'>
@@ -54,7 +52,7 @@ const Content_02 = () => {
                         className='h-full w-full'
                       />
                     </div>
-                    Safeguard customer payment information
+                    Dynamic, data-driven web applications
                   </li>
                   <li className='flex items-start gap-x-3'>
                     <div className='mt-[2.5px] h-[30px] w-[30px]'>
@@ -66,7 +64,7 @@ const Content_02 = () => {
                         className='h-full w-full'
                       />
                     </div>
-                    Secure digital assets and donor information
+                    Optimized performance for enhanced user engagement
                   </li>
                 </ul>
               </div>
@@ -80,4 +78,4 @@ const Content_02 = () => {
   );
 };
 
-export default Content_02;
+export default WebDevelopment_02;

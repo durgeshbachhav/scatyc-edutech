@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const Service = () => {
+const WebDevelopmentServices = () => {
   return (
     <section id='service-section'>
       {/* Section Spacer */}
@@ -9,13 +9,13 @@ const Service = () => {
         <div className='global-container'>
           {/* Section Content Block */}
           <div className='jos mx-auto mb-10 text-center md:mb-16 md:max-w-xl lg:mb-20 lg:max-w-3xl xl:max-w-[856px]'>
-            <h2 className='font-spaceGrotesk text-4xl font-medium leading-[1.06] -tracking-[2px] text-white sm:text-[44px] lg:text-[56px] xl:text-[70px]'>
-              Get all the tools to tackle cybersecurity together
+            <h2 className='font-spaceGrotesk text-4xl font-medium leading-[1.06] -tracking-[2px] text-black sm:text-[44px] lg:text-[56px] xl:text-[70px]'>
+              Master Web Development with Our Comprehensive Course
             </h2>
           </div>
           {/* Section Content Block */}
           {/* Service List */}
-          <ul className='grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3'>
+          <ul className='grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 text-white'>
             {/* Service Item */}
             <li
               className='jos group rounded-[10px] bg-[#121212] p-[30px]'
@@ -32,12 +32,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Threat Detection
+                  HTML & CSS Fundamentals
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                AI can identify patterns &amp; improve the detection of unknown
-                threats.
+                Master the building blocks of web development with HTML5 and CSS3.
               </p>
               <Link
                 to='/service-details'
@@ -76,12 +75,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Phishing Detection
+                  JavaScript & ES6+
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                AI examines email content &amp; sender behavior to identify
-                phishing links.
+                Learn modern JavaScript to create dynamic and interactive web applications.
               </p>
               <Link
                 to='/service-details'
@@ -120,12 +118,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Network Security
+                  React & Redux
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                Network traffic attempts and can take automated actions to
-                block.
+                Build powerful single-page applications with React and manage state with Redux.
               </p>
               <Link
                 to='/service-details'
@@ -164,11 +161,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Encryption Tools
+                  Node.js & Express
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                Encryption software and hardware protect data by converting it.
+                Develop server-side applications and RESTful APIs with Node.js and Express.
               </p>
               <Link
                 to='/service-details'
@@ -207,12 +204,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Password Managers
+                  Database & ORM
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                Password managers help users create, store, &amp; unique
-                passwords.
+                Learn to work with databases like MongoDB and ORMs like Mongoose.
               </p>
               <Link
                 to='/service-details'
@@ -251,12 +247,11 @@ const Service = () => {
                   />
                 </div>
                 <div className='flex-1 font-spaceGrotesk text-3xl leading-[1.33]'>
-                  Secure Email
+                  DevOps & Deployment
                 </div>
               </div>
               <p className='mb-7 text-[21px] leading-[1.4]'>
-                These solutions filter and block email-based threats emails,
-                spam.
+                Master the tools and practices for deploying and maintaining web applications.
               </p>
               <Link
                 to='/service-details'
@@ -289,4 +284,4 @@ const Service = () => {
   );
 };
 
-export default Service;
+export default WebDevelopmentServices;

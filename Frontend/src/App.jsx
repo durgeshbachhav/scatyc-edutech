@@ -19,6 +19,11 @@ import Layout from './components/layout/Layout';
 import Faq_01 from './pages/common/faq/faq_01/Faq_01';
 import Home from './pages/home/Home';
 import DataAnalytics from './pages/common/DataAnalytics';
+import BusinessAnalytics from './pages/common/BusinessAnalytics';
+import WebDevelopment from './pages/common/WebDevelopment';
+import DigitalMarketing from './pages/common/DigitalMarketing';
+import FinanceModeling from './pages/common/FinanceModeling';
+import DataVisualization from './pages/common/DataVisualization';
 
 function App() {
   // Init JOS Animation
@@ -29,6 +34,7 @@ function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route path='/' element={<Home />} />
+          
           <Route path='login' element={<Login />} />
           <Route path='signup' element={<Signup />} />
           <Route path='about' element={<About />} />
@@ -45,10 +51,15 @@ function App() {
           <Route path='reset-password' element={<Reset_password />} />
           <Route path='services' element={<Services />} />
           <Route path='data-analytics' element={<DataAnalytics />} />
+          <Route path='business-analytics' element={<BusinessAnalytics />} />
+          <Route path='web-development' element={<WebDevelopment />} />
+          <Route path='digital-marketing' element={<DigitalMarketing />} />
+          <Route path='finance-modeling' element={<FinanceModeling />} />
+          <Route path='data-visualization' element={<DataVisualization />} />
           <Route path='error-404' element={<Error_404 />} />
           <Route path='*' element={<Error_404 />} />
         </Route>
-        
+
       </Routes>
     </>
   );

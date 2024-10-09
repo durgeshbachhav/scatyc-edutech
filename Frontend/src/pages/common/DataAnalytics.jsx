@@ -27,6 +27,7 @@ const DataAnalytics = () => {
         {/*...::: About Contact Section Start :::... */}
         <Contact />
         {/*...::: About Contact Section End :::... */}
+        
       </main>
     </>
   );
